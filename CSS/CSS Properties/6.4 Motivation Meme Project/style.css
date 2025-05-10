@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+.container {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+
+  color: white;
+  font-family: "Caveat", cursive;
+  text-align: center;
+}
+
+.container img {
+  border: 5px solid white;
+  width: 100%;
+}
+
+.container h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+}

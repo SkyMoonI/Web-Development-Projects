@@ -27,16 +27,142 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Introduction to HTML/HTML Heading Elements.md",
+                "file": "HTML/Intermediate HTML/🧱 Nesting & Indentation in HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML Heading Elements"
+              "title": "🧱 Nesting & Indentation in HTML"
+            }
+          },
+          {
+            "id": "73c0711c702d0cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Intermediate HTML/🔗Anchor Element (Understanding HTML Attributes).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔗Anchor Element (Understanding HTML Attributes)"
+            }
+          },
+          {
+            "id": "f200837a19b452ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Intermediate HTML/🖼️Image Element (Adding Images to Your Website).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🖼️Image Element (Adding Images to Your Website)"
+            }
+          },
+          {
+            "id": "0523e00f78be04bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Multi-Pages Websites/📁 Understanding Computer File Paths (HTML).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📁 Understanding Computer File Paths (HTML)"
+            }
+          },
+          {
+            "id": "89870a62ced9a4aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Introduction to CSS/🎨 How to Add CSS to HTML (Inline, Internal, External).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🎨 How to Add CSS to HTML (Inline, Internal, External)"
+            }
+          },
+          {
+            "id": "3b7cd1ce1eaa4854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Introduction to CSS/🎯 CSS Selectors – Choosing Where to Apply CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🎯 CSS Selectors – Choosing Where to Apply CSS"
+            }
+          },
+          {
+            "id": "5b48a1d762e754b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS Properties/✍️ Font Properties in CSS – Changing the Appearance of Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "✍️ Font Properties in CSS – Changing the Appearance of Text"
+            }
+          },
+          {
+            "id": "9d27a412dbe571d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS Properties/📦 CSS Box Model – Margin, Padding & Border Explained.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📦 CSS Box Model – Margin, Padding & Border Explained"
+            }
+          },
+          {
+            "id": "55e90d28453612d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS Properties/🔲 CSS Border Attributes – Styling the Edges.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔲 CSS Border Attributes – Styling the Edges"
+            }
+          },
+          {
+            "id": "50efdb6a0e43d705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Intermediate CSS/🧬 CSS Cascade - Specificity and Inheritance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧬 CSS Cascade - Specificity and Inheritance"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -111,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "90e622a6baca298d",
@@ -127,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Introduction to HTML/HTML Heading Elements.md",
+                "file": "CSS/Intermediate CSS/🧬 CSS Cascade - Specificity and Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +264,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HTML Heading Elements"
+              "title": "Backlinks for 🧬 CSS Cascade - Specificity and Inheritance"
             }
           },
           {
@@ -186,7 +313,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,15 +326,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6a1f3b9ff65270a",
+  "active": "50efdb6a0e43d705",
   "lastOpenFiles": [
+    "CSS/CSS Properties/🔲 CSS Border Attributes – Styling the Edges.md",
+    "CSS/Intermediate CSS/🧬 CSS Cascade - Specificity and Inheritance.md",
+    "CSS/Intermediate CSS",
+    "CSS/Intermediate CSS/CSS Cascade.png",
+    "CSS/CSS Properties/📦 CSS Box Model – Margin, Padding & Border Explained.md",
+    "CSS/CSS Properties/✍️ Font Properties in CSS – Changing the Appearance of Text.md",
+    "CSS/Introduction to CSS/🎯 CSS Selectors – Choosing Where to Apply CSS.md",
+    "CSS/CSS Properties",
+    "CSS/Introduction to CSS/🎨 How to Add CSS to HTML (Inline, Internal, External).md",
+    "HTML/Multi-Pages Websites/📁 Understanding Computer File Paths (HTML).md",
+    "CSS/Introduction to CSS",
+    "CSS",
+    "HTML/Intermediate HTML/🖼️Image Element (Adding Images to Your Website).md",
+    "HTML/Multi-Pages Websites",
+    "HTML/Intermediate HTML/🔗Anchor Element (Understanding HTML Attributes).md",
     "HTML/Intermediate HTML/🧱 Nesting & Indentation in HTML.md",
-    "HTML/Intermediate HTML/📝 HTML List Elements.md",
-    "📄 HTML Element Template (Obsidian).md",
-    "Untitled 1.md",
-    "HTML/Introduction to HTML/HTML Paragraph Elements.md",
     "HTML/Introduction to HTML/HTML Heading Elements.md",
+    "HTML/Introduction to HTML/HTML Paragraph Elements.md",
     "HTML/Introduction to HTML/Void Elements.md",
+    "📄 HTML Element Template (Obsidian).md",
+    "HTML/Intermediate HTML/📝 HTML List Elements.md",
+    "Screenshot 2025-05-09 185826.png",
+    "Untitled 1.md",
     "HTML/Intermediate HTML",
     "HTML",
     "HTML/Introduction to HTML",
