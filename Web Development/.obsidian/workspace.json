@@ -4,165 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6ce1ed2aedfe8804",
+        "id": "9ee3a04186732711",
         "type": "tabs",
         "children": [
           {
-            "id": "d2eab6bb8ca13958",
+            "id": "709fddcd136924e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/Intermediate HTML/📝 HTML List Elements.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "📝 HTML List Elements"
-            }
-          },
-          {
-            "id": "e6a1f3b9ff65270a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/Intermediate HTML/🧱 Nesting & Indentation in HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🧱 Nesting & Indentation in HTML"
-            }
-          },
-          {
-            "id": "73c0711c702d0cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/Intermediate HTML/🔗Anchor Element (Understanding HTML Attributes).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🔗Anchor Element (Understanding HTML Attributes)"
-            }
-          },
-          {
-            "id": "f200837a19b452ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/Intermediate HTML/🖼️Image Element (Adding Images to Your Website).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🖼️Image Element (Adding Images to Your Website)"
-            }
-          },
-          {
-            "id": "0523e00f78be04bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML/Multi-Pages Websites/📁 Understanding Computer File Paths (HTML).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📁 Understanding Computer File Paths (HTML)"
-            }
-          },
-          {
-            "id": "89870a62ced9a4aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/Introduction to CSS/🎨 How to Add CSS to HTML (Inline, Internal, External).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🎨 How to Add CSS to HTML (Inline, Internal, External)"
-            }
-          },
-          {
-            "id": "3b7cd1ce1eaa4854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/Introduction to CSS/🎯 CSS Selectors – Choosing Where to Apply CSS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🎯 CSS Selectors – Choosing Where to Apply CSS"
-            }
-          },
-          {
-            "id": "5b48a1d762e754b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/CSS Properties/✍️ Font Properties in CSS – Changing the Appearance of Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "✍️ Font Properties in CSS – Changing the Appearance of Text"
-            }
-          },
-          {
-            "id": "9d27a412dbe571d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/CSS Properties/📦 CSS Box Model – Margin, Padding & Border Explained.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📦 CSS Box Model – Margin, Padding & Border Explained"
-            }
-          },
-          {
-            "id": "55e90d28453612d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/CSS Properties/🔲 CSS Border Attributes – Styling the Edges.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🔲 CSS Border Attributes – Styling the Edges"
-            }
-          },
-          {
-            "id": "50efdb6a0e43d705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/Intermediate CSS/🧬 CSS Cascade - Specificity and Inheritance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🧬 CSS Cascade - Specificity and Inheritance"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "90e622a6baca298d",
@@ -326,10 +180,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50efdb6a0e43d705",
+  "active": "b09f0a8f4d623680",
   "lastOpenFiles": [
-    "CSS/CSS Properties/🔲 CSS Border Attributes – Styling the Edges.md",
+    "CSS/Flexbox/🧭 `flex-direction` in Flexbox.md",
+    "CSS/Flexbox/🧩 Flexible Layout in Flexbox.md",
+    "CSS/Flexbox/📦 CSS Flexbox.md",
+    "CSS/Flexbox",
+    "CSS/Advanced CSS/🎯 Media Queries.md",
+    "CSS/Advanced CSS/🧰 Usage Areas of Key CSS Layout Tools.md",
+    "CSS/Advanced CSS/🌊 CSS `float` and `clear`.md",
+    "CSS/Intermediate CSS/📍 CSS `position` Property.md",
+    "CSS/Advanced CSS/🧱 CSS `display` Property.md",
+    "📄 HTML Element Template (Obsidian).md",
+    "CSS/Advanced CSS",
+    "HTML/Intermediate HTML/📝 HTML List Elements.md",
+    "CSS/Intermediate CSS/🎯 Combining CSS Selectors.md",
     "CSS/Intermediate CSS/🧬 CSS Cascade - Specificity and Inheritance.md",
+    "CSS/CSS Properties/🔲 CSS Border Attributes – Styling the Edges.md",
     "CSS/Intermediate CSS",
     "CSS/Intermediate CSS/CSS Cascade.png",
     "CSS/CSS Properties/📦 CSS Box Model – Margin, Padding & Border Explained.md",
@@ -347,8 +214,6 @@
     "HTML/Introduction to HTML/HTML Heading Elements.md",
     "HTML/Introduction to HTML/HTML Paragraph Elements.md",
     "HTML/Introduction to HTML/Void Elements.md",
-    "📄 HTML Element Template (Obsidian).md",
-    "HTML/Intermediate HTML/📝 HTML List Elements.md",
     "Screenshot 2025-05-09 185826.png",
     "Untitled 1.md",
     "HTML/Intermediate HTML",
