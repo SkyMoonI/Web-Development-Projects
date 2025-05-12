@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ee3a04186732711",
+        "id": "79380c402a616c10",
         "type": "tabs",
         "children": [
           {
-            "id": "709fddcd136924e9",
+            "id": "891eef5e78df2b08",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,16 +180,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b09f0a8f4d623680",
+  "active": "891eef5e78df2b08",
   "lastOpenFiles": [
-    "CSS/Flexbox/🧭 `flex-direction` in Flexbox.md",
+    "CSS/Grid/📌 CSS Grid Item Placement.md",
+    "CSS/Bootstrap/🧩 Bootstrap Components (Pre-built & Pre-styled Elements).md",
+    "CSS/Bootstrap/🧰 Bootstrap Framework (External Layout System).md",
+    "CSS/Bootstrap/🧮 Bootstrap Layout (The 12-Column Grid System).md",
+    "CSS/Bootstrap",
+    "CSS/Grid/📏 CSS Grid Sizing (Columns & Rows).md",
+    "CSS/Flexbox/📍 CSS Flex Sizing.md",
+    "CSS/Intermediate CSS/📍 CSS `position` Property.md",
+    "CSS/Grid/🎯 CSS Grid Layout.md",
+    "CSS/Introduction to CSS/🎯 CSS Selectors – Choosing Where to Apply CSS.md",
+    "CSS/Introduction to CSS/🎨 How to Add CSS to HTML (Inline, Internal, External).md",
+    "CSS/Grid",
     "CSS/Flexbox/🧩 Flexible Layout in Flexbox.md",
     "CSS/Flexbox/📦 CSS Flexbox.md",
+    "CSS/Flexbox/🧭 `flex-direction` in Flexbox.md",
     "CSS/Flexbox",
     "CSS/Advanced CSS/🎯 Media Queries.md",
     "CSS/Advanced CSS/🧰 Usage Areas of Key CSS Layout Tools.md",
     "CSS/Advanced CSS/🌊 CSS `float` and `clear`.md",
-    "CSS/Intermediate CSS/📍 CSS `position` Property.md",
     "CSS/Advanced CSS/🧱 CSS `display` Property.md",
     "📄 HTML Element Template (Obsidian).md",
     "CSS/Advanced CSS",
@@ -201,24 +212,13 @@
     "CSS/Intermediate CSS/CSS Cascade.png",
     "CSS/CSS Properties/📦 CSS Box Model – Margin, Padding & Border Explained.md",
     "CSS/CSS Properties/✍️ Font Properties in CSS – Changing the Appearance of Text.md",
-    "CSS/Introduction to CSS/🎯 CSS Selectors – Choosing Where to Apply CSS.md",
     "CSS/CSS Properties",
-    "CSS/Introduction to CSS/🎨 How to Add CSS to HTML (Inline, Internal, External).md",
     "HTML/Multi-Pages Websites/📁 Understanding Computer File Paths (HTML).md",
     "CSS/Introduction to CSS",
     "CSS",
     "HTML/Intermediate HTML/🖼️Image Element (Adding Images to Your Website).md",
     "HTML/Multi-Pages Websites",
-    "HTML/Intermediate HTML/🔗Anchor Element (Understanding HTML Attributes).md",
-    "HTML/Intermediate HTML/🧱 Nesting & Indentation in HTML.md",
-    "HTML/Introduction to HTML/HTML Heading Elements.md",
-    "HTML/Introduction to HTML/HTML Paragraph Elements.md",
-    "HTML/Introduction to HTML/Void Elements.md",
     "Screenshot 2025-05-09 185826.png",
-    "Untitled 1.md",
-    "HTML/Intermediate HTML",
-    "HTML",
-    "HTML/Introduction to HTML",
-    "Welcome.md"
+    "HTML/Intermediate HTML"
   ]
 }
