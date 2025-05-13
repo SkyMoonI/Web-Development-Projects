@@ -44,14 +44,15 @@ You apply `display: flex;` to a **container** element, and then use flex propert
 
 ### 🛠️ Key Flex Container Properties
 
-|Property|Purpose|
-|---|---|
-|`display: flex;`|Turns the container into a flex container|
-|`flex-direction`|Sets direction: `row`, `row-reverse`, `column`, `column-reverse`|
-|`justify-content`|Aligns items **horizontally** (main axis)|
-|`align-items`|Aligns items **vertically** (cross axis)|
-|`flex-wrap`|Allows wrapping of flex items|
-|`gap`|Adds spacing between flex items|
+| Property                | Purpose                                                          |
+| ----------------------- | ---------------------------------------------------------------- |
+| `display: flex;`        | Turns the container into a flex container                        |
+| `flex-direction`        | Sets direction: `row`, `row-reverse`, `column`, `column-reverse` |
+| `justify-content`       | Aligns items **horizontally** (main axis)                        |
+| `align-items`           | Aligns items **vertically** (cross axis)                         |
+| `flex-wrap`             | Allows wrapping of flex items                                    |
+| `gap`                   | Adds spacing between flex items                                  |
+| `display: inline-flex;` | Takes up as much space as its child's                            |
 
 ---
 
