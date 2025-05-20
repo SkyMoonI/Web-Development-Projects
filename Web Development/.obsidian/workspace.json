@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f83eac8577ccfd1",
+            "id": "5d54c4d898391f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/Express/🧩 Middleware – The Building Blocks of Express.js.md",
+                "file": "Node.js/EJS/📨 Passing Data to EJS Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧩 Middleware – The Building Blocks of Express.js"
+              "title": "📨 Passing Data to EJS Templates"
             }
           },
           {
-            "id": "dce79146d36ebbc2",
+            "id": "d41675d3010ead26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/Express/🧩 body-parser, morgan & Custom Middleware.md",
+                "file": "Node.js/Express/🌐 HTTP Requests – How the Web Talks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧩 body-parser, morgan & Custom Middleware"
-            }
-          },
-          {
-            "id": "21e51f5465739c98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node.js/EJS/🖼️ What is EJS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🖼️ What is EJS"
+              "title": "🌐 HTTP Requests – How the Web Talks"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,8 +199,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9980ec4e350e2ef0",
+  "active": "d41675d3010ead26",
   "lastOpenFiles": [
+    "JavaScript/js/🧱 A Deeper Understanding of JavaScript Objects.md",
+    "JavaScript/js/🚀 Advanced JavaScript & DOM Manipulation.md",
+    "Node.js/EJS/🧩 EJS Partials and Layouts.md",
+    "Node.js/EJS/📨 Passing Data to EJS Templates.md",
+    "Node.js/EJS/🏷️EJS Tags Cheat Sheet.md",
     "Node.js/EJS/🖼️ What is EJS.md",
     "Node.js/EJS",
     "Node.js/Express/🧩 body-parser, morgan & Custom Middleware.md",
@@ -242,13 +233,8 @@
     "JavaScript/jQuery/🎯 jQuery Selecting & Manipulating Elements.md",
     "JavaScript/jQuery/💎 Intro to jQuery & Minification.md",
     "JavaScript/jQuery",
-    "JavaScript/js/🚀 Advanced JavaScript & DOM Manipulation.md",
-    "JavaScript/js/🧱 A Deeper Understanding of JavaScript Objects.md",
     "JavaScript/DOM/📝 Text Manipulation and `textContent` in the DOM.md",
     "JavaScript/DOM/🌳 JavaScript and the DOM.md",
-    "JavaScript/DOM/🧰 Using `classList` to Maintain Separation of Concerns.md",
-    "JavaScript/DOM/🧱 Separation of Concerns (Structure vs Style vs Behavior).md",
-    "JavaScript/DOM/🎨 Manipulating and Changing Styles of HTML Elements with JavaScript (DOM).md",
     "JavaScript",
     "JavaScript/DOM",
     "CSS/Intermediate CSS/CSS Cascade.png",
