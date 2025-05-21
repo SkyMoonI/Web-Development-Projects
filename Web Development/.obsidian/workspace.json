@@ -27,16 +27,128 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node.js/Express/🌐 HTTP Requests – How the Web Talks.md",
+                "file": "📄 HTML Element Template (Obsidian).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌐 HTTP Requests – How the Web Talks"
+              "title": "📄 HTML Element Template (Obsidian)"
+            }
+          },
+          {
+            "id": "279b392fef08ae9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git, Github and Version Control/🗂️ Version Control Using Git and GitHub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🗂️ Version Control Using Git and GitHub"
+            }
+          },
+          {
+            "id": "feef76d00f90a1b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git, Github and Version Control/🛑 .gitignore and Cloning Git Repositories.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🛑 .gitignore and Cloning Git Repositories"
+            }
+          },
+          {
+            "id": "89357d7aaa1fe895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git, Github and Version Control/🌿 Branching and Merging in Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🌿 Branching and Merging in Git"
+            }
+          },
+          {
+            "id": "95f8b84dff306791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git, Github and Version Control/🍴 Forking and Pull Requests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🍴 Forking and Pull Requests"
+            }
+          },
+          {
+            "id": "98a05bc549826d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application Programming Interfaces (APIs)/🔗 Introduction to APIs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔗 Introduction to APIs"
+            }
+          },
+          {
+            "id": "f407e844fd7154b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application Programming Interfaces (APIs)/📬 Structuring API Requests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📬 Structuring API Requests"
+            }
+          },
+          {
+            "id": "bddd311c93feda77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application Programming Interfaces (APIs)/📄 What is JSON.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📄 What is JSON"
+            }
+          },
+          {
+            "id": "9a1dc2bad3a3d6b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application Programming Interfaces (APIs)/🔌 Making Server-Side API Requests with Axios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔌 Making Server-Side API Requests with Axios"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,8 +311,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d41675d3010ead26",
+  "active": "b09f0a8f4d623680",
   "lastOpenFiles": [
+    "Application Programming Interfaces (APIs)/📄 What is JSON.md",
+    "Application Programming Interfaces (APIs)/🔌 Making Server-Side API Requests with Axios.md",
+    "Application Programming Interfaces (APIs)/📬 Structuring API Requests.md",
+    "Application Programming Interfaces (APIs)/🔗 Introduction to APIs.md",
+    "Git, Github and Version Control/🍴 Forking and Pull Requests.md",
+    "Git, Github and Version Control/🌿 Branching and Merging in Git.md",
+    "Git, Github and Version Control/🛑 .gitignore and Cloning Git Repositories.md",
+    "Git, Github and Version Control/🗂️ Version Control Using Git and GitHub.md",
+    "📄 HTML Element Template (Obsidian).md",
+    "Node.js/Express/🌐 HTTP Requests – How the Web Talks.md",
+    "Application Programming Interfaces (APIs)",
+    "Git, Github and Version Control",
     "JavaScript/js/🧱 A Deeper Understanding of JavaScript Objects.md",
     "JavaScript/js/🚀 Advanced JavaScript & DOM Manipulation.md",
     "Node.js/EJS/🧩 EJS Partials and Layouts.md",
@@ -213,7 +337,6 @@
     "Node.js/Express/🧪 Postman – API Testing Made Easy.md",
     "Node.js/node.js basics/⚙️ Node.js Basics.md",
     "Node.js/node.js basics",
-    "Node.js/Express/🌐 HTTP Requests – How the Web Talks.md",
     "Node.js/Express/🚀 Express.js – Introduction & First Server.md",
     "Node.js/node.js basics/📦 npm & External Node Modules.md",
     "Node.js/Express",
@@ -223,20 +346,9 @@
     "Backend Explanation/🖥️ Backend Web Development.md",
     "Backend Explanation",
     "JavaScript/js/🎹 Keyboard Events, Animations, and Callbacks in JavaScript.md",
-    "The Unix Command Line/🧾 Command Line Cheat Sheet.md",
     "JavaScript/js",
-    "The Unix Command Line/📄 Creating, Opening & Deleting Files via Command Line.md",
-    "The Unix Command Line/📂 Command Line Directory Navigation & Techniques.md",
-    "The Unix Command Line/💻 Understanding the Command Line.md",
     "The Unix Command Line",
-    "JavaScript/jQuery/⚡ jQuery  Events, Elements & Animations.md",
-    "JavaScript/jQuery/🎯 jQuery Selecting & Manipulating Elements.md",
-    "JavaScript/jQuery/💎 Intro to jQuery & Minification.md",
     "JavaScript/jQuery",
-    "JavaScript/DOM/📝 Text Manipulation and `textContent` in the DOM.md",
-    "JavaScript/DOM/🌳 JavaScript and the DOM.md",
-    "JavaScript",
-    "JavaScript/DOM",
     "CSS/Intermediate CSS/CSS Cascade.png",
     "Screenshot 2025-05-09 185826.png"
   ]
