@@ -8,91 +8,133 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5da44d3b4bc6659f",
+            "id": "c44f7be183257695",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Programming Interfaces (APIs)/🔌 Making Server-Side API Requests with Axios.md",
+                "file": "Database/🗃️ Databases Explained SQL vs. NoSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔌 Making Server-Side API Requests with Axios"
+              "title": "🗃️ Databases Explained SQL vs. NoSQL"
             }
           },
           {
-            "id": "0a945b93377821c7",
+            "id": "f0a413a3510696c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Programming Interfaces (APIs)/🔐 API Authentication.md",
+                "file": "Database/🧾 SQL Commands CREATE TABLE & INSERT Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔐 API Authentication"
+              "title": "🧾 SQL Commands CREATE TABLE & INSERT Data"
             }
           },
           {
-            "id": "bb03952324b5180d",
+            "id": "8d7ae69bcf9a9ede",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Programming Interfaces (APIs)/🧩 REST APIs (Representational State Transfer).md",
+                "file": "Database/📖 SQL Commands READ, SELECT, and WHERE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧩 REST APIs (Representational State Transfer)"
+              "title": "📖 SQL Commands READ, SELECT, and WHERE"
             }
           },
           {
-            "id": "cc4993820f25eb99",
+            "id": "7c67dafb217806d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Programming Interfaces (APIs)/Crating Your Own APIs/📨 GET Routes Returning JSON + `req` Usage.md",
+                "file": "Database/🛠 SQL Updating Values & Adding Columns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📨 GET Routes Returning JSON + `req` Usage"
+              "title": "🛠 SQL Updating Values & Adding Columns"
             }
           },
           {
-            "id": "ed0f7b201b472f19",
+            "id": "7083a827c71c8842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Programming Interfaces (APIs)/Crating Your Own APIs/📬 Creating POST, PUT, and PATCH Routes.md",
+                "file": "Database/🗑 SQL DELETE Records.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📬 Creating POST, PUT, and PATCH Routes"
+              "title": "🗑 SQL DELETE Records"
             }
           },
           {
-            "id": "59967daa462931e8",
+            "id": "00c368361587b245",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Programming Interfaces (APIs)/Crating Your Own APIs/🗑️ Creating DELETE Routes in Express.md",
+                "file": "📄 HTML Element Template (Obsidian).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗑️ Creating DELETE Routes in Express"
+              "title": "📄 HTML Element Template (Obsidian)"
+            }
+          },
+          {
+            "id": "316e560ccc98a9f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/🐘 Introduction to PostgreSQL, Keys, Types, and Keywords.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🐘 Introduction to PostgreSQL, Keys, Types, and Keywords"
+            }
+          },
+          {
+            "id": "9713a383756badc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/🔗 Understanding SQL Relationships.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🔗 Understanding SQL Relationships"
+            }
+          },
+          {
+            "id": "91f49287ba115377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/🛠️ Updating and Deleting Data & Tables in SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🛠️ Updating and Deleting Data & Tables in SQL"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -255,10 +297,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b09f0a8f4d623680",
+  "active": "9980ec4e350e2ef0",
   "lastOpenFiles": [
+    "Database/🛠️ Updating and Deleting Data & Tables in SQL.md",
+    "Database/🔗 Understanding SQL Relationships.md",
+    "Database/🐘 Introduction to PostgreSQL, Keys, Types, and Keywords.md",
+    "📄 HTML Element Template (Obsidian).md",
+    "Database/🔗 SQL Relationships, Foreign Keys & INNER JOIN.md",
+    "Untitled",
+    "Database/🗑 SQL DELETE Records.md",
+    "Database/🛠 SQL Updating Values & Adding Columns.md",
+    "Database/📖 SQL Commands READ, SELECT, and WHERE.md",
+    "Database/🧾 SQL Commands CREATE TABLE & INSERT Data.md",
+    "Database/🗃️ Databases Explained SQL vs. NoSQL.md",
     "Application Programming Interfaces (APIs)/Crating Your Own APIs/📬 Creating POST, PUT, and PATCH Routes.md",
     "Application Programming Interfaces (APIs)/Crating Your Own APIs/🗑️ Creating DELETE Routes in Express.md",
+    "Database",
     "Application Programming Interfaces (APIs)/Crating Your Own APIs/📨 GET Routes Returning JSON + `req` Usage.md",
     "Application Programming Interfaces (APIs)/Crating Your Own APIs",
     "Application Programming Interfaces (APIs)/🧩 REST APIs (Representational State Transfer).md",
@@ -272,27 +326,15 @@
     "Git, Github and Version Control/🌿 Branching and Merging in Git.md",
     "Git, Github and Version Control/🛑 .gitignore and Cloning Git Repositories.md",
     "Git, Github and Version Control/🗂️ Version Control Using Git and GitHub.md",
-    "📄 HTML Element Template (Obsidian).md",
     "Node.js/Express/🌐 HTTP Requests – How the Web Talks.md",
     "Application Programming Interfaces (APIs)",
     "Git, Github and Version Control",
     "JavaScript/js/🧱 A Deeper Understanding of JavaScript Objects.md",
-    "JavaScript/js/🚀 Advanced JavaScript & DOM Manipulation.md",
-    "Node.js/EJS/🧩 EJS Partials and Layouts.md",
-    "Node.js/EJS/📨 Passing Data to EJS Templates.md",
-    "Node.js/EJS/🏷️EJS Tags Cheat Sheet.md",
-    "Node.js/EJS/🖼️ What is EJS.md",
     "Node.js/EJS",
-    "Node.js/Express/🧩 body-parser, morgan & Custom Middleware.md",
-    "Node.js/Express/🧩 Middleware – The Building Blocks of Express.js.md",
-    "Node.js/Express/🧪 Postman – API Testing Made Easy.md",
-    "Node.js/node.js basics/⚙️ Node.js Basics.md",
     "Node.js/node.js basics",
     "Node.js/Express",
     "Node.js",
     "Backend Explanation",
-    "JavaScript/js",
-    "The Unix Command Line",
     "CSS/Intermediate CSS/CSS Cascade.png",
     "Screenshot 2025-05-09 185826.png"
   ]
